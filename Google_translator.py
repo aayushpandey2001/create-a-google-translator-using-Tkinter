@@ -4,7 +4,7 @@ from googletrans import Translator
 import googletrans
 
 root=Tk()
-root.title("Google Translator 2.o")
+root.title("My Google Translator")
 root.geometry("1080x400")
 root.resizable(False,False)
 root.configure(background="white")
